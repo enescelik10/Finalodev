@@ -1,0 +1,42 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: xx-large;
+    margin-top: 20px;
+}
+
+.bolumler {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 20px;
+    list-style-type: none;
+}
+
+.bolumler li {
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    padding: 1em 0;
+    color: #fff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;}
+
+.social-icon {
+        width: 50x; /* Logonun genişliği */
+        height: 50px; /* Logonun yüksekliği */
+        margin-top: 5px;
+        transition: transform 0.3s;}
+        

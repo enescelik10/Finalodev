@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+#anadiv{
+    border: 5px solid white;
+    height: 500px;
+    width: 550px;
+    margin: 0 auto; 
+}
+
+#foto{
+    margin: 0 auto;
+
+}
+
+#hakkimda{
+    border: 5px solid white;
+    height: 335px;
+    
+}
